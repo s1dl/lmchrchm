@@ -1,0 +1,35 @@
+body {
+    background-color: rosybrown;
+    font-family: Arial, sans-serif;
+}
+.bac-card {
+    width: 300px;
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 16px;
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; ;
+
+
+
+}
+.profile-image {
+    max-width: 100%;
+    border-radius: 20px;
+    border: 2px solid pink;
+
+}
+p {
+    margin: 5px;
+}
+a {
+    text-decoration: none;
+}
+.imo {
+    text-shadow: #ffcc00 1px 0 10px;
+}
