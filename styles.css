@@ -1,6 +1,8 @@
 body {
-    background-color: rosybrown;
+    height: 100vh;
+    background-color: linear-gradient(rosybrown,pink);
     font-family: Arial, sans-serif;
+    
 }
 .bac-card {
     width: 300px;
